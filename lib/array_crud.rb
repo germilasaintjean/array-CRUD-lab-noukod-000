@@ -9,11 +9,11 @@ return array
 end
 
 def add_element_to_end_of_array(array, element)
-array.push(7)
+array.push(element)
 end
 
 def add_element_to_start_of_array(array, element)
-array.unshift(6)
+array.unshift(elemnent)
 end
 
 def remove_element_from_end_of_array(array)
