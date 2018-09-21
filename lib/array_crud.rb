@@ -1,6 +1,6 @@
 def create_an_empty_array
   empty_array = []
-  empty_array_2 = new.array
+  return ampty_array
 end
 
 def create_an_array
